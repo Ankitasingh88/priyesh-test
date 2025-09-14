@@ -1,0 +1,15 @@
+:root {
+  background-color: #ffffff;
+  color: #0f0101;
+  display: flex;
+  justify-content: center;
+
+  button {
+    cursor: pointer;
+  }
+}
+
+[data-theme="dark"] {
+  background-color: #010913;
+  color: #eee;
+}
